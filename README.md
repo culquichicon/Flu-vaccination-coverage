@@ -4,4 +4,4 @@ This is the analysis conducted for the study entitled "Coverage and associated f
 
 ## codebook
 Find out the code here:
-- Data analysis: [_da_vaccflu_v4_](https://github.com/culquichicon/El-Nino-amendment/blob/master/da_enmienda_v5.do)
+- Data analysis: [_da_vaccflu_v4_](https://github.com/culquichicon/Flu-vaccination-coverage/blob/master/da_vaccflu_v4.do)
